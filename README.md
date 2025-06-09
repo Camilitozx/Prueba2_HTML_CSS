@@ -15,7 +15,8 @@ Bienvenido a mi portafolio web, desarrollado como prueba de desempeño en HTML y
 Hola, soy un **coder apasionado por la tecnología y el desarrollo web**. Me entusiasma crear experiencias digitales limpias, funcionales y centradas en el usuario.
 
 
-## Servicios
+## Servicios 
+### Nota: este apartado es mas que todo ficticio lo utilice en mi portafolio para que no se viese tan vacio.
 
 1. **Desarrollo Web** — Diseño y construcción de sitios modernos y responsivos.  
 2. **Optimización** — Mejora del rendimiento, accesibilidad y velocidad de carga.  
