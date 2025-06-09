@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portafolio Website</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" type="image/png" href="imagenes/portafolio.jpg"/>
+    <script src="https://kit.fontawesome.com/2193d055c9.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav id="navbar">
+            <div class="logo">Camilo<span>Marimon</span></div>
+            <ul class="nav-links">
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#experiencia">Experiencia</a></li>
+                <li><a href="#proyectos">Proyectos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Presentación personal-->
+        <section id="inicio" class="hero">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1>Camilo Marimon</h1>
+                    <h2>Riwi Coder</h2>
+                    <p>Hola, soy un coder apasionado por la tecnología y el desarrollo web.</p>
+                    <div class="social-links">
+                        <a href="https://github.com/Camilitozx"><i class="fab fa-github"></i></a>
+                        <a href="https://www.instagram.com/_camilitoxz/?locale=es_US%3FICID%3DBLOG_MBF_ES"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.discordapp.com/users/429446461277601802"><i class="fab fa-discord"></i></a>
+                    </div>
+                    <a href="#contacto" class="btn">Contáctame</a>
+                </div>
+                <div class="hero-image">
+                    <img src="imagenes/imagen1.jpg" alt="Imagen de perfil" />
+                </div>
+            </div>
+        </section>
+
+        <!-- Servicios. Esta información es ficticia, la quise agregar para que el portafolio tuviera un poco mas de contenido. -->
+        <section id="servicios" class="services">
+            <h2 class="section-title">Servicios</h2>
+            <div class="services-grid">
+                <div class="service-item">
+                    <h3>Desarrollo Web</h3>
+                    <p>Diseño y desarrollo de sitios web modernos y responsivos.</p>
+                </div>
+                <div class="service-item">
+                    <h3>Optimización</h3>
+                    <p>Mejora de rendimiento y posicionamiento SEO.</p>
+                </div>
+                <div class="service-item">
+                    <h3>Asesorías</h3>
+                    <p>Consultoría personalizada en proyectos de software.</p>
+                </div>
+                <div class="service-item">
+                    <h3>Mantenimiento</h3>
+                    <p>Brindo soporte continuo para mantener tu sitio actualizado, seguro y en funcionamiento.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experiencia -->
+        <section id="experiencia" class="experiencia">
+            <h2 class="section-title">Experiencia Como Coder</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <span class="date">2021 - 2022</span>
+                        <h3>Estudiante de Ingeniería de Sistemas</h3>
+                        <h4>Universidad Simón Bolívar</h4>
+                        <p>Desarrollo de algoritmos en herramientas como PseInt y NetBeans (IDE).</p>
+                        <ul class="skill">
+                            <li>PseInt</li>
+                            <li>NetBeans</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Portafolio con al menos tres proyectos-->
+        <section id="proyectos" class="projects">
+            <h2 class="section-title">Proyectos Personales</h2>
+            <div class="projects-container">
+                <!-- Proyecto 1 -->
+                <div class="project-card">
+                    <div class="project-img">
+                        <img src="imagenes/imagen2.png" alt="Proyecto 1" />
+                    </div>
+                    <div class="project-info">
+                        <h3>App para regular el consumo de vivienda</h3>
+                        <p>Aplicación para calcular y controlar el consumo de agua según el estrato social, incentivando el uso responsable de recursos.</p>
+                        <div class="project-tech">
+                            <span>NetBeans</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Proyecto 2 -->
+                <div class="project-card">
+                    <div class="project-img">
+                        <img src="imagenes/imagen3.png" alt="Proyecto 2" />
+                    </div>
+                    <div class="project-info">
+                        <h3>Sistema de Inventario Básico</h3>
+                        <p>Aplicación que permite registrar, actualizar y visualizar productos con su respectiva cantidad, ideal para pequeñas tiendas o proyectos personales.</p>
+                        <div class="project-tech">
+                            <span>Python</span>
+                            <span>Consola</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Proyecto 3 -->
+                <div class="project-card">
+                    <div class="project-img">
+                        <img src="imagenes/imagen4.png" alt="Proyecto 2" />
+                    </div>
+                    <div class="project-info">
+                        <h3>PlayZone página wed</h3>
+                        <p>Página wed que simula la venta de juegos una página llamativa y fácil de usar.</p>
+                        <div class="project-tech">
+                            <span>Html</span>
+                            <span>Css</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!--sección de contacto.-->
+        <section id="contacto" class="contac container">
+            <div class="contact-content">
+                <h3>Contáctame</h3>
+                <form>
+                    <input type="email" placeholder="Escribe tu correo"/>
+                    <input type="submit" class="btn3" value="Enviar"/>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2025 Camilo Marimón - Todos los derechos reservados.</p>
+            <div class="social-links">
+                <a href="https://github.com/Camilitozx"><i class="fab fa-github"></i></a>
+                <a href="https://www.instagram.com/_camilitoxz/?locale=es_US%3FICID%3DBLOG_MBF_ES"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.discordapp.com/users/429446461277601802"><i class="fab fa-discord"></i></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
