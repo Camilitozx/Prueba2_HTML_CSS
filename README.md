@@ -1,10 +1,10 @@
 
-# 🎨 Mi_portafolio_prueba_de_desempeno_HTML_CSS
+# Mi portafolio prueba de desempeno HTML CSS
 
 Bienvenido a mi portafolio web, desarrollado como prueba de desempeño en HTML y CSS. Este proyecto representa mis habilidades en diseño responsivo, maquetación moderna y experiencia de usuario, utilizando tecnologías como **Flexbox**, **CSS Grid** y buenas prácticas de desarrollo front-end.
 
 
-## 👨‍💻 Presentación personal
+## Presentación personal
 
 **Nombre:** Camilo Andrés Marimón Pérez  
 **Clan:** Tayrona 
@@ -14,7 +14,7 @@ Bienvenido a mi portafolio web, desarrollado como prueba de desempeño en HTML y
 Hola, soy un **coder apasionado por la tecnología y el desarrollo web**. Me entusiasma crear experiencias digitales limpias, funcionales y centradas en el usuario.
 
 
-## 🛠️ Servicios
+## Servicios
 
 1. **Desarrollo Web** — Diseño y construcción de sitios modernos y responsivos.  
 2. **Optimización** — Mejora del rendimiento, accesibilidad y velocidad de carga.  
@@ -22,9 +22,9 @@ Hola, soy un **coder apasionado por la tecnología y el desarrollo web**. Me ent
 4. **Mantenimiento** — Actualización y mejora continua de páginas existentes.
 
 
-## 📚 Experiencia
+##  Experiencia
 
-### 🎓 2021 - 2022  
+### 2021 - 2022  
 **Estudiante de Ingeniería de Sistemas**  
 Universidad Simón Bolívar  
 
@@ -34,7 +34,7 @@ Durante mi formación desarrollé lógica algorítmica y estructuras básicas en
 - 💻 **NetBeans (IDE)**
 
 
-## 🚀 Mis proyectos
+## Mis proyectos
 
 1. 🏠 **App para regular el consumo de vivienda**  
 2. 📦 **Sistema de Inventario Básico**  
